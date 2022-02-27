@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547152242825",
+    "project_id": "ebay-demo-2ec23",
+    "storage_bucket": "ebay-demo-2ec23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547152242825:android:4500106fb46e3387527e58",
+        "android_client_info": {
+          "package_name": "com.example.ebay_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547152242825-16rs0mcqhlv52hse7kpk02sel1dhn6no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0-F2bJjEs2UUtsnXpaf-szDzHqZpBnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547152242825-16rs0mcqhlv52hse7kpk02sel1dhn6no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
